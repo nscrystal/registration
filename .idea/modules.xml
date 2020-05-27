@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../My Application.iml" filepath="$PROJECT_DIR$/../My Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../imagediscretization/imagediscretization.iml" filepath="$PROJECT_DIR$/../imagediscretization/imagediscretization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/login.iml" filepath="$PROJECT_DIR$/login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../onetime/onetime.iml" filepath="$PROJECT_DIR$/../onetime/onetime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../otp/otp.iml" filepath="$PROJECT_DIR$/../otp/otp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../scrollbar/scrollbar.iml" filepath="$PROJECT_DIR$/../scrollbar/scrollbar.iml" />
+    </modules>
+  </component>
+</project>
